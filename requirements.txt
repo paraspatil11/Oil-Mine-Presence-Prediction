@@ -1,0 +1,11 @@
+torch
+torch_geometric
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+folium
+joblib
+streamlit
